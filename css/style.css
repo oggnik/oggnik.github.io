@@ -1,0 +1,58 @@
+body {
+	background: #3C3C3C;
+	color: #C29D4E;
+	font-family: Tahoma, sans-serif, serif;
+}
+
+.heading {
+	width: 30%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #C29D4E;
+}
+
+.heading hr {
+	border-color: #C29D4E;
+}
+
+
+.main {
+	margin-top: 2em;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+.page_title {
+}
+
+.portrait_picture {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+.contents {
+	line-height: 1.5em;
+}
+
+.contents .summary {
+	margin-top: 2em;
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.contents .links {
+	margin-top: 3em;
+}
+
+.contents .links a {
+	text-decoration: underline;
+}
